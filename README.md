@@ -1,4 +1,4 @@
-Sales Data Analysis with Power BI
+Supermarket Sales Data Analysis with Power BI
 This repository contains a Power BI report for analyzing sales data. The analysis focuses on identifying key trends, product sales, and payment methods used by customers, providing actionable insights through interactive visualizations.
 
 Project Overview
